@@ -1,6 +1,8 @@
+package ClassesObjectsConstructors;
+
 public class Main {
     public static void main(String[] args){
-        //Create Human objects/instances
+        //Create ClassesObjectsConstructors.Human objects/instances
         Human nimal = new Human(44);  //nimal is object in human type(class)
         Human kamal = new Human("red");
         Human sasikala= new Human(88);

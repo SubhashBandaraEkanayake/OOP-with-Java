@@ -1,3 +1,5 @@
+package ClassesObjectsConstructors;
+
 public class Human{
     String name; //variable
     int age;
@@ -22,7 +24,7 @@ public class Human{
         this.fColor = favColor;
     }
 
-    //So now Human is a class which can make objects based on it
+    //So now ClassesObjectsConstructors.Human is a class which can make objects based on it
 
 }
 
